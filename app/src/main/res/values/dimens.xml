@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textSizeCalculator">32sp</dimen>
+    <dimen name="marginCalculator">1dp</dimen>
+
+</resources>
